@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_my_name_is_hannah_gabrielle_d_caling" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/i_m_a_passionate_coder_who_enjoys_diving_into_the_world_of_programming_when_i_m_not_behind_a_screen_i_find_solace_in_the_pages_of_a_good_book_or_the_rhythm_of_my_favorite_tunes" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/click_me" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/copyright_2024"
+        android:layout_gravity="bottom|right"
+        tools:ignore="RtlHardcoded" />
+
+</LinearLayout>
